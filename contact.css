@@ -1,0 +1,16 @@
+@font-face {
+    font-family: contact;
+    src: url(Kalam-Bold.ttf);
+}
+h2{
+    font-family: contact;
+}
+@font-face {
+    font-family:contact us;
+    src: url(Merienda-Regular.ttf);
+}
+h5{
+
+    font-family: contact us;
+
+}

@@ -1,0 +1,7 @@
+#carousel{
+    background:linear-gradient(rgba(0,0,0,0.30),rgb(23, 23, 68)), 
+               url(team1.jpg);
+    background-size: cover;
+    background-position:center;
+    height: 100vh;
+}

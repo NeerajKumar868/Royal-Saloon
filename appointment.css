@@ -1,0 +1,70 @@
+*{
+    margin-top: 15px;
+    
+    
+   
+    
+    
+    
+}
+@font-face{
+    font-family: myfontstyle;
+    src: url("Caveat-VariableFont_wght.ttf");
+    
+  }
+H1{
+    text-transform: capitalize;
+    text-align: center;
+    font-family: myfontstyle;
+    font-size: 50px;
+    margin-bottom: -30px;
+    color: rgb(0, 0, 80);
+    margin-left: 90px;
+    
+    
+    
+
+}
+@font-face{
+    font-family: myfont;
+    src: url("Courgette-Regular.ttf");
+}
+table{
+    
+    margin: -10px;
+    margin-left: 37%;
+    color:rgb(175, 126, 0);
+    text-transform: capitalize;
+    font-family:myfont;
+    font-size: 25px;
+    background-image:url("bg4.jpg");
+    background-repeat: no-repeat;
+    background-size: 500px;
+
+padding: 10px 15px;}
+
+    
+button {
+    background-color:rgb(59, 133, 230);
+    text-transform: capitalize;
+    font-size: 18px;
+    font-family: myfont;  
+    padding: 10px 20px;
+    color: #fff;
+    border: 10px  solid #fff;
+    position: relative;  
+    text-decoration: none;
+    margin-left: 47%;
+
+}
+#name,#tel,#date,#time,#emailid{
+    text-align:center;
+    padding: 10px 10px;
+    font-family: myfont;
+    color: rgb(0, 0, 80);
+    font-size: 18px;
+    
+}
+.col{
+    padding-left: 45%;
+}

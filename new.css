@@ -1,0 +1,63 @@
+*{margin: 0px 0px;}
+.container1{
+    text-align: center;
+    
+}
+@font-face{
+    font-family: myfontstyle;
+    src: url("KaushanScript-Regular.otf");
+  }
+.col-7{
+    padding-top: 105px;
+    font-family:myfontstyle;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.col-12{
+    font-size: 35px;
+    font-family:myfontstyle;
+    color: rgb(6, 6, 61);
+    word-wrap: 15px;
+
+}
+.col-3{
+    
+
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fa{
+    border-radius: 50%;
+    text-decoration: none;
+  }
+  @font-face {
+      font-family: newfont;
+      src: url(Merienda-Regular.ttf);
+  }
+  p{
+      font-size: 30px;
+      color:goldenrod;
+      font-family: newfont;
+
+  }
+  .grid-12{
+      color: black;
+      font-size: 21px;
+      font-weight: bold;
+      padding: 5px;
+  }
+  h1{
+      font-family: newfont;
+  }
+
+  @media screen and (max-width:992px) {
+    img{
+        width: auto;
+        align-items: center;
+    }
+    p{
+        width: auto;
+        text-align: center;
+        margin-top: 0px;
+    }
+    
+  }
